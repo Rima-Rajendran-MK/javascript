@@ -43,3 +43,9 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+/*++++++++++++++++++++++++++++++++++
+2 - types
+1. Stack - primitive type - we get the copy of the variable declared
+2. Heap - non primitive type - we get the reference of the original value
+*/
